@@ -18,7 +18,7 @@ manifest:
     comment: Figure 5 in the manuscript.
   - file: table_2_computation_performance.csv
     comment: Table 2 in the manuscript.
-  - file: table_3_satisfaction_probability.csv
+  - file: table_3_satisfaction_probability.csvhttps://doi.org/10.5281/zenodo.15606829
     comment: Table 3 in the manuscript.
   - file: table_4_car_parking.csv
     comment: Table 4 in the manuscript.
@@ -33,4 +33,4 @@ summary: >
 repository: https://github.com/codecheckers/certificate-2025-008
 check_time: "2025-05-28 10:00:00"
 certificate: 2025-018
-report: https://doi.org/10.5281/zenodo.15606829
+report: https://doi.org/10.5281/zenodo.15630442
