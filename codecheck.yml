@@ -9,7 +9,8 @@ paper:
     - name: Sofie Haesaert
       ORCID: 0000-0003-4749-4688
     - name: Luca Laurenti
-  reference: 0000-0003-1190-6097
+      ORCID: 0000-0003-1190-6097
+  reference: https://doi.org/10.48550/arXiv.2411.11803
 
 manifest:
   - file: plot_4_car_parking.pdf
@@ -18,7 +19,7 @@ manifest:
     comment: Figure 5 in the manuscript.
   - file: table_2_computation_performance.csv
     comment: Table 2 in the manuscript.
-  - file: table_3_satisfaction_probability.csvhttps://doi.org/10.5281/zenodo.15606829
+  - file: table_3_satisfaction_probability.csv
     comment: Table 3 in the manuscript.
   - file: table_4_car_parking.csv
     comment: Table 4 in the manuscript.
